@@ -1,8 +1,11 @@
 ### Hello World! I'm André Antunes
 
 - 👨‍💻 I’m currently working with IT support
+  - Atualmente estou trabalhando com suporte TI
 - 📚 I’m currently learning: Java & Python
+  - Atualmente estou aprendendo Java & Python
 - 📫 How to reach me: 
+  - Como entrar em contato comigo:
 <div> 
   <a href="https://www.linkedin.com/in/andre-antunes-b22749b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://t.me/AndreLFA" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
