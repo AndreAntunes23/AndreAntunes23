@@ -12,10 +12,11 @@
  	<a href="andre_lfa@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
+##
 
 <div>
   <a href="https://github.com/AndreAntunes23">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AndreAntunes23&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAntunes23&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=AndreAntunes23&color=green" alt="AndreAntunes23" /> 
