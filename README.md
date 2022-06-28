@@ -2,10 +2,10 @@
 
 <dl>
    <li>👨‍💻 I’m currently working with IT support</li>
-     <ul>&nbsp&nbsp&nbsp<i>Atualmente estou trabalhando com suporte TI</i></ul>
+     <ul>&nbsp&nbsp&nbsp<i>Atualmente estou trabalhando como Desnvolvedor Jr</i></ul>
     <p> 
    <li>📚 I’m currently learning: Java & Python</li>
-      <ul>&nbsp&nbsp&nbsp<i>Atualmente estou aprendendo Java & Python</i></ul>
+      <ul>&nbsp&nbsp&nbsp<i>Atualmente estou aprendendo Golang</i></ul>
   <p>
    <li>📫 How to reach me:</br></li>
      <ul>&nbsp&nbsp&nbsp<i>Como entrar em contato comigo:</i></ul>
