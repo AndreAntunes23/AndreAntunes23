@@ -2,7 +2,7 @@
 
 <dl>
    <li>👨‍💻 I’m currently working with Developer Jr</li>
-     <ul>&nbsp&nbsp&nbsp<i>Atualmente estou trabalhando como Desnvolvedor Jr</i></ul>
+     <ul>&nbsp&nbsp&nbsp<i>Atualmente estou trabalhando como Desenvolvedor Jr</i></ul>
     <p> 
    <li>📚 I’m currently learning: Golang</li>
       <ul>&nbsp&nbsp&nbsp<i>Atualmente estou aprendendo Golang</i></ul>
