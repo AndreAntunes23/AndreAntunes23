@@ -1,10 +1,10 @@
 ### <strong><h1> Hello World! I'm André Antunes </h1></strong>
 
 <dl>
-   <li>👨‍💻 I’m currently working with IT support</li>
+   <li>👨‍💻 I’m currently working with Developer Jr</li>
      <ul>&nbsp&nbsp&nbsp<i>Atualmente estou trabalhando como Desnvolvedor Jr</i></ul>
     <p> 
-   <li>📚 I’m currently learning: Java & Python</li>
+   <li>📚 I’m currently learning: Golang</li>
       <ul>&nbsp&nbsp&nbsp<i>Atualmente estou aprendendo Golang</i></ul>
   <p>
    <li>📫 How to reach me:</br></li>
