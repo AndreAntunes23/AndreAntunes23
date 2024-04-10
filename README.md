@@ -4,8 +4,8 @@
    <li>👨‍💻 I’m currently working with Developer Jr</li>
      <ul>&nbsp&nbsp&nbsp<i>Atualmente estou trabalhando como Desenvolvedor Jr</i></ul>
     <p> 
-   <li>📚 I’m currently learning: Golang n Python</li>
-      <ul>&nbsp&nbsp&nbsp<i>Atualmente estou aprendendo Golang e Python</i></ul>
+   <li>📚 I'm currently improving Java</li>
+      <ul>&nbsp&nbsp&nbsp<i>Atualmente estou aperfeiçoando Java</i></ul>
   <p>
    <li>📫 How to reach me:</br></li>
      <ul>&nbsp&nbsp&nbsp<i>Como entrar em contato comigo:</i></ul>
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/andre-antunes-b22749b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://t.me/AndreLFA" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  	<a href="mailto:andre_lfa@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-   <a href="https://web.dio.me/users/andre_lfa" target="_blank"><img src="https://hermes.digitalinnovation.one/assets/diome/logo.png" weight="25" height="25" target="_blank"></a>
+<!--    <a href="https://web.dio.me/users/andre_lfa" target="_blank"><img src="https://hermes.digitalinnovation.one/assets/diome/logo.png" weight="25" height="25" target="_blank"></a> -->
 
 ##
 
