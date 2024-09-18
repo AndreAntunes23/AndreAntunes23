@@ -1,14 +1,11 @@
 ### <strong><h1> Hello World! I'm André Antunes </h1></strong>
 
 <dl>
-   <li>👨‍💻 I’m currently working with Developer Jr</li>
-     <ul>&nbsp&nbsp&nbsp<i>Atualmente estou trabalhando como Desenvolvedor Jr</i></ul>
+   <li>👨‍💻 I’m currently working with Developer Jr | <i>Atualmente estou trabalhando como Desenvolvedor Jr</i></li>
     <p> 
-   <li>📚 I'm currently improving Java</li>
-      <ul>&nbsp&nbsp&nbsp<i>Atualmente estou aperfeiçoando Java</i></ul>
+   <li>📚 I'm currently improving Java | <i>Atualmente estou aperfeiçoando Java</i></li>
   <p>
-   <li>📫 How to reach me:</br></li>
-     <ul>&nbsp&nbsp&nbsp<i>Como entrar em contato comigo:</i></ul>
+   <li>📫 How to reach me: | <i>Como entrar em contato comigo:</i></br></li>
 </dl>
   
 <div> 
@@ -20,8 +17,9 @@
 ##
 
 <div>
-  <a href="https://github.com/AndreAntunes23">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=AndreAntunes23&show_icons=true&theme=chartreuse-dark&"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAntunes23&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+   <a href="https://github.com/AndreAntunes23">
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAntunes23&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AndreAntunes23&show_icons=true&theme=chartreuse-dark&"/>
+  
 </div>
 <!-- <img src="https://komarev.com/ghpvc/?username=AndreAntunes23&color=green" alt="AndreAntunes23" /> -->
