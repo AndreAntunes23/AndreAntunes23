@@ -16,9 +16,11 @@
 
 ##
 
-<div>
+CARDS IN RECONSTRUCTION
+
+<!-- <div>
    <a href="https://github.com/AndreAntunes23">
    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAntunes23&layout=compact&langs_count=7&theme=chartreuse-dark"/>‎
    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AndreAntunes23&show_icons=true&theme=chartreuse-dark&"/>
-</div>
+</div> -->
 <!-- <img src="https://komarev.com/ghpvc/?username=AndreAntunes23&color=green" alt="AndreAntunes23" /> -->
